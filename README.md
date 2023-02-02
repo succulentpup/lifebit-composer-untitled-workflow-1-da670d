@@ -1,4 +1,4 @@
-# Untitled Workflow #1
+# test-nfcore-abacus
 
 ## Description
 
